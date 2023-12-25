@@ -2,18 +2,18 @@
 using System.Collections.Concurrent;
 using System.Globalization;
 
-/* EXERCÍCIO 1 
+
 System.Console.WriteLine("Informe dois valores inteiros separados por espaço:");
 
-string[] numbers = Console.ReadLine().Split(' ');
-int x = int.Parse(numbers[0]);
-int y = int.Parse(numbers[1]);
+string[] number = Console.ReadLine().Split(' ');
+int a = int.Parse(number[0]);
+int b = int.Parse(number[1]);
 
-double soma = x + y;
-System.Console.WriteLine("A soma dos valores " + x + " + " + y + " são iguais a " + soma.ToString("F1", CultureInfo.InvariantCulture));
-*/
+double soma = a + b;
+System.Console.WriteLine("A soma dos valores " + a + " + " + b + " são iguais a " + soma.ToString("F1", CultureInfo.InvariantCulture));
 
-/* EXERCÍCIO 2
+
+
 System.Console.WriteLine("Informa o valor do raio para que programa calcule a circunferência do círculo:");
 
 double pi = 3.14159;
@@ -21,9 +21,9 @@ double raio = double.Parse(Console.ReadLine());
 
 double calculoPi = pi * Math.Pow(raio, 2);
 System.Console.WriteLine("A circunferência do raio " + raio + " é " + calculoPi.ToString("F4", CultureInfo.InvariantCulture));
-*/
 
-/*EXERCÍCIO 03
+
+
 System.Console.WriteLine("Digite 4 valores inteiros separados por espaço:");
 string[] numbers = Console.ReadLine().Split(' ');
 
@@ -34,9 +34,9 @@ int z = int.Parse(numbers[3]);
 
 int difference = (w * x) - (y * z);
 System.Console.WriteLine("A diferença dos valores inseridos foi: " + difference);
-*/
 
-/* EXERCÍCIO 4
+
+
 System.Console.WriteLine("Informe seu número de registro:");
 int registerNumber = int.Parse(Console.ReadLine());
 
@@ -49,7 +49,7 @@ double valueHours = double.Parse(Console.ReadLine());
 double salaryCalculation = hoursOfWork * valueHours;
 System.Console.WriteLine("Funcionário de número: " + registerNumber);
 System.Console.WriteLine("Seu salário é de R$" + salaryCalculation.ToString("F2", CultureInfo.InvariantCulture));
-*/
+
 
 double valuePiece01 = 5.30;
 double valuePiece02 = 5.10;
@@ -80,6 +80,28 @@ do {
     } while (keepBuy == 'S' || keepBuy == 's');
 
 System.Console.WriteLine("O valor total de sua compra é de R$:" + userCart.ToString("F2"));
+
+
+System.Console.WriteLine("Informe 3 valores separados por espaços:");
+string[] valores = Console.ReadLine().Split(' ');
+
+double aa = double.Parse(valores[0]);
+double bb = double.Parse(valores[1]);
+double cc = double.Parse(valores[2]);
+
+double piValue = 3.14159;
+
+double triangle = (aa * cc) / 2;
+double circle = piValue * Math.Pow(cc, 2);
+double trapezio = 1/2 * (aa + bb) * cc;
+double quadrado = Math.Pow(bb, 2);
+double rectangle = aa * bb;
+
+System.Console.WriteLine("ÁREA DO TRIANGULO = " + triangle.ToString("F3"));
+System.Console.WriteLine("ÁREA DO CÍRCULO = " + circle.ToString("F3"));
+System.Console.WriteLine("ÁREA DO TRAPEZIO = " + trapezio.ToString("F3"));
+System.Console.WriteLine("ÁREA DO QUADRADO = " + quadrado.ToString("F3"));
+System.Console.WriteLine("ÁREA DO RETÂNGULO = " + rectangle.ToString("F3"));
 
 
 
