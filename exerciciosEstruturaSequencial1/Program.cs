@@ -22,6 +22,7 @@ double calculoPi = pi * Math.Pow(raio, 2);
 System.Console.WriteLine("A circunferência do raio " + raio + " é " + calculoPi.ToString("F4", CultureInfo.InvariantCulture));
 */
 
+/*EXERCÍCIO 03
 System.Console.WriteLine("Digite 4 valores inteiros separados por espaço:");
 string[] numbers = Console.ReadLine().Split(' ');
 
@@ -32,4 +33,18 @@ int z = int.Parse(numbers[3]);
 
 int difference = (w * x) - (y * z);
 System.Console.WriteLine("A diferença dos valores inseridos foi: " + difference);
+*/
+
+System.Console.WriteLine("Informe seu número de registro:");
+int registerNumber = int.Parse(Console.ReadLine());
+
+System.Console.WriteLine("Informe a quantidade de horas trabalhadas esse mês:");
+int hoursOfWork = int.Parse(Console.ReadLine());
+
+System.Console.WriteLine("Informe o valor de cada hora trabalhada:");
+double valueHours = double.Parse(Console.ReadLine());
+
+double salaryCalculation = hoursOfWork * valueHours;
+System.Console.WriteLine("Funcionário de número: " + registerNumber);
+System.Console.WriteLine("Seu salário é de R$" + salaryCalculation.ToString("F2", CultureInfo.InvariantCulture));
 
