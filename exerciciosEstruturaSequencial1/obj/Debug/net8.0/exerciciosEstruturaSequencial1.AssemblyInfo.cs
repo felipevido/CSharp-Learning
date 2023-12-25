@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exerciciosEstruturaSequencial1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+968b4705bca261c70fe73245fbf1f15166b69038")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99799b2c1d66d0a7e8a1e3119d9ec1fb1d11d934")]
 [assembly: System.Reflection.AssemblyProductAttribute("exerciciosEstruturaSequencial1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exerciciosEstruturaSequencial1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

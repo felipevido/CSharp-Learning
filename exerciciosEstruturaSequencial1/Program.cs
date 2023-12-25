@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Globalization;
 
 /* EXERCÍCIO 1 
@@ -35,6 +36,7 @@ int difference = (w * x) - (y * z);
 System.Console.WriteLine("A diferença dos valores inseridos foi: " + difference);
 */
 
+/* EXERCÍCIO 4
 System.Console.WriteLine("Informe seu número de registro:");
 int registerNumber = int.Parse(Console.ReadLine());
 
@@ -47,4 +49,38 @@ double valueHours = double.Parse(Console.ReadLine());
 double salaryCalculation = hoursOfWork * valueHours;
 System.Console.WriteLine("Funcionário de número: " + registerNumber);
 System.Console.WriteLine("Seu salário é de R$" + salaryCalculation.ToString("F2", CultureInfo.InvariantCulture));
+*/
+
+double valuePiece01 = 5.30;
+double valuePiece02 = 5.10;
+
+double userCart = 0;
+char keepBuy;
+
+do {
+
+    System.Console.WriteLine("Código do produto:");
+        int codProduct = int.Parse(Console.ReadLine());
+    System.Console.WriteLine("Quantidade comprada do produto Cod:" + codProduct);
+        int qtdProduct = int.Parse(Console.ReadLine());
+    
+    if (codProduct == 1) {
+        userCart += valuePiece01 * qtdProduct;
+        }
+        else if (codProduct == 2) {
+            userCart += valuePiece02 * qtdProduct;
+        } 
+        else {
+            System.Console.WriteLine("Ocorreu um erro. Tente novamente mais tarde!");
+        }
+
+    System.Console.WriteLine("Deseja continuar comprando? S ou N");
+    keepBuy = char.Parse(Console.ReadLine());
+
+    } while (keepBuy == 'S' || keepBuy == 's');
+
+System.Console.WriteLine("O valor total de sua compra é de R$:" + userCart.ToString("F2"));
+
+
+
 
