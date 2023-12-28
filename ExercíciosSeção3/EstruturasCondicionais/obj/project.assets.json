@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/felipevido/Documents/GitHub/CSharpLessons/exerciciosEstruturaSequencial1/exerciciosEstruturaSequencial1.csproj",
-      "projectName": "exerciciosEstruturaSequencial1",
-      "projectPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/exerciciosEstruturaSequencial1/exerciciosEstruturaSequencial1.csproj",
+      "projectUniqueName": "/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/EstruturasCondicionais.csproj",
+      "projectName": "EstruturasCondicionais",
+      "projectPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/EstruturasCondicionais.csproj",
       "packagesPath": "/Users/felipevido/.nuget/packages/",
-      "outputPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/exerciciosEstruturaSequencial1/obj/",
+      "outputPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/felipevido/.nuget/NuGet/NuGet.Config"

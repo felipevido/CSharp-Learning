@@ -13,3 +13,11 @@
 /Users/felipevido/Documents/GitHub/CSharpLessons/exerciciosEstruturaSequencial1/obj/Debug/net8.0/exerciciosEstruturaSequencial1.pdb
 /Users/felipevido/Documents/GitHub/CSharpLessons/exerciciosEstruturaSequencial1/obj/Debug/net8.0/exerciciosEstruturaSequencial1.genruntimeconfig.cache
 /Users/felipevido/Documents/GitHub/CSharpLessons/exerciciosEstruturaSequencial1/obj/Debug/net8.0/ref/exerciciosEstruturaSequencial1.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.AssemblyInfoInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.AssemblyInfo.cs
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.csproj.CoreCompileInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.sourcelink.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/refint/exerciciosEstruturaSequencial1.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/obj/Debug/net8.0/exerciciosEstruturaSequencial1.pdb

@@ -1,0 +1,15 @@
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.deps.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.runtimeconfig.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/bin/Debug/net8.0/EstruturasCondicionais.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.AssemblyInfoInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.AssemblyInfo.cs
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.csproj.CoreCompileInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.sourcelink.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/refint/EstruturasCondicionais.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/EstruturasCondicionais.genruntimeconfig.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/EstruturasCondicionais/obj/Debug/net8.0/ref/EstruturasCondicionais.dll
