@@ -1,0 +1,15 @@
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/bin/Debug/net8.0/ExerciciosWhile
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/bin/Debug/net8.0/ExerciciosWhile.deps.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/bin/Debug/net8.0/ExerciciosWhile.runtimeconfig.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/bin/Debug/net8.0/ExerciciosWhile.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/bin/Debug/net8.0/ExerciciosWhile.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.AssemblyInfoInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.AssemblyInfo.cs
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.csproj.CoreCompileInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.sourcelink.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/refint/ExerciciosWhile.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ExerciciosWhile.genruntimeconfig.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/ExercíciosSeção3/ExerciciosWhile/obj/Debug/net8.0/ref/ExerciciosWhile.dll
