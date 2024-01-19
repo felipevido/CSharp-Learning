@@ -1,0 +1,15 @@
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/bin/Debug/net8.0/Seção 4
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/bin/Debug/net8.0/Seção 4.deps.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/bin/Debug/net8.0/Seção 4.runtimeconfig.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/bin/Debug/net8.0/Seção 4.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/bin/Debug/net8.0/Seção 4.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.AssemblyInfoInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.AssemblyInfo.cs
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.csproj.CoreCompileInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.sourcelink.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/refint/Seção 4.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/Seção 4.genruntimeconfig.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/Debug/net8.0/ref/Seção 4.dll
