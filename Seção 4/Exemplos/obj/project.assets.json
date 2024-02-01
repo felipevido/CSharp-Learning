@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Seção 4.csproj",
+      "projectUniqueName": "/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Exemplos/Seção 4.csproj",
       "projectName": "Seção 4",
-      "projectPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Seção 4.csproj",
+      "projectPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Exemplos/Seção 4.csproj",
       "packagesPath": "/Users/felipevido/.nuget/packages/",
-      "outputPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/obj/",
+      "outputPath": "/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Exemplos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/felipevido/.nuget/NuGet/NuGet.Config"
