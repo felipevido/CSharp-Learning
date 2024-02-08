@@ -1,0 +1,15 @@
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.AssemblyInfoInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.AssemblyInfo.cs
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.csproj.CoreCompileInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.sourcelink.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/bin/Debug/net8.0/Object e ToString
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/bin/Debug/net8.0/Object e ToString.deps.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/bin/Debug/net8.0/Object e ToString.runtimeconfig.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/bin/Debug/net8.0/Object e ToString.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/bin/Debug/net8.0/Object e ToString.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/refint/Object e ToString.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/Object e ToString.genruntimeconfig.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Object e ToString/obj/Debug/net8.0/ref/Object e ToString.dll
