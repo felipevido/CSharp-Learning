@@ -1,0 +1,15 @@
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.AssemblyInfoInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.AssemblyInfo.cs
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.csproj.CoreCompileInputs.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.sourcelink.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/bin/Debug/net8.0/Fixação
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/bin/Debug/net8.0/Fixação.deps.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/bin/Debug/net8.0/Fixação.runtimeconfig.json
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/bin/Debug/net8.0/Fixação.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/bin/Debug/net8.0/Fixação.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/refint/Fixação.dll
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.pdb
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/Fixação.genruntimeconfig.cache
+/Users/felipevido/Documents/GitHub/CSharpLessons/Seção 4/Fixação/obj/Debug/net8.0/ref/Fixação.dll
